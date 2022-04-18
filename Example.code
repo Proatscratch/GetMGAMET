@@ -1,9 +1,0 @@
-*style (**src | **text) {
-      bg : blue
-      fg : white
-}
-*src {
-      *text (x = 0) {
-      
-      }
-}
